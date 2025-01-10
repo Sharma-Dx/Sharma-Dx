@@ -7,14 +7,13 @@ Hi there! 👋 I'm Dheeraj Sharma, a researcher passionate about using technolog
 
 Here are some of the key projects I am working on:
 
+The Cyclic Dynamics of Romantic Relationships
 
-2. The Cyclic Dynamics of Romantic Relationships
-
-    Abstract: This project applies dynamic systems theory to romantic relationships using the film "Prem Rog" as a basis for analysis.
-    We created mathematical models to simulate and study the emotions and interactions between characters.
-    Methodology: We used ordinary differential equations (ODEs) to model feelings involving three people and divided the model into stages of the relationships.
-    Tools Used: Python, ODient Library, Matplotlib.
-    Results and Findings: The simulation revealed insights into love dynamics, including attraction, distaste, neglect, and how these behaviors affect relationship quality. The model demonstrated how individual appeal can lead to stable systems or chaotic cycles in social interactions.
+Abstract: This project applies dynamic systems theory to romantic relationships using the film "Prem Rog" as a basis for analysis.
+We created mathematical models to simulate and study the emotions and interactions between characters.
+Methodology: We used ordinary differential equations (ODEs) to model feelings involving three people and divided the model into stages of the relationships.
+Tools Used: Python, ODient Library, Matplotlib.
+Results and Findings: The simulation revealed insights into love dynamics, including attraction, distaste, neglect, and how these behaviors affect relationship quality. The model demonstrated how individual appeal can lead to stable systems or chaotic cycles in social interactions.
 
 
 🧠 Skills & Technologies
