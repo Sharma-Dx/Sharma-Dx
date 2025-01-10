@@ -5,7 +5,7 @@ Hi there! 👋 I'm Dheeraj Sharma, a researcher passionate about using technolog
 
 🔬 Projects
 
-Here are some of the key projects I am working on:
+Here are some of the key projects I am worked on:
 
 The Cyclic Dynamics of Romantic Relationships
 
